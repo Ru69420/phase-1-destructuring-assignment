@@ -1,6 +1,12 @@
-const farmAnimals = 'cow horse sheep pig chicken';
+const farmAnimals = 'cow, horse, sheep, pig, chicken';
+[cow, horse, sheep, pig, chicken] = [moo, neigh, baa, oink, clack];
+
+console.log(farmAnimals);
+//expected output : animal sounds written out respectively
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
+
+
 
 const muppet = {
   muppetName: 'Miss Piggy',
